@@ -1,0 +1,42 @@
+
+
+FTP
+Transmisión de archivos
+Hosting barato normal --> /public_html/ <-- FTP
+	index.php
+	images
+	leonidas.jpg
+www.dogecoin.com
+
+1. Múltiples personas en el equipo
+2. NO HAY CULPA
+ 
+
+SISTEMA DE CONTROL DE VERSIONES
+
+SVN: Subversion / Mercurial / TFS / CVS / GIT
+Github
+1. Red socual de programadores
+2. Web / Apps
+3. Mucho más fácil
+
+====
+
+Repositorio de código GITHUB (master)
+
+	Clon local
+		commit - sync
+
+1. Múltiples versiones del mismo código
+2. Cambios Delta
+	Base de datos atómica del código
+3. Historial de cada archivo
+4. Múltiples personas sobre el mismo archivo
+5. CULPA AL CULPABLE
+6. Ramas (branches)
+	*master (github.com) REPOCITORIO PRINCIPAL
+	*master (disco duro) REPO LOCAL
+		*master
+			--- MERGE (experimental - master)
+		*expiremental local
+	*marter (servidor.com) REPO PRODUCCION
