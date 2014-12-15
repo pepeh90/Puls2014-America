@@ -6,7 +6,7 @@ Hosting barato normal --> /public_html/ <-- FTP
 	index.php
 	images
 	leonidas.jpg
-www.dogecoin.com
+www.fuckencio.com
 
 1. Múltiples personas en el equipo
 2. NO HAY CULPA
